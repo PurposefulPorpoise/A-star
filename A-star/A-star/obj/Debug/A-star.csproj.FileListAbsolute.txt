@@ -4,3 +4,9 @@ D:\KrzysiekD\VisualStudioProjects\A-star\A-star\bin\Debug\A-star.pdb
 D:\KrzysiekD\VisualStudioProjects\A-star\A-star\obj\Debug\A-star.csprojResolveAssemblyReference.cache
 D:\KrzysiekD\VisualStudioProjects\A-star\A-star\obj\Debug\A-star.exe
 D:\KrzysiekD\VisualStudioProjects\A-star\A-star\obj\Debug\A-star.pdb
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\bin\Debug\A-star.exe.config
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\obj\Debug\A-star.exe
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\obj\Debug\A-star.pdb
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\bin\Debug\A-star.exe
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\bin\Debug\A-star.pdb
+D:\Users\Krzysiek\Documents\A-star\A-star\A-star\obj\Debug\A-star.csprojResolveAssemblyReference.cache
